@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group 'fr.caemur'
+version '1.0'
+
+repositories {
+    mavenCentral()
+
+    maven {
+        url = 'https://jitpack.io/'
+    }
+
+    maven {
+        url 'https://litarvan.github.io/maven'
+    }
+}
+
+dependencies {
+    implementation 'fr.litarvan:openauth:1.1.2'
+    implementation 'fr.flowarg:openlauncherlib:3.2.2'
+    implementation 'fr.flowarg:flowupdater:1.4.4'
+    implementation 'fr.flowarg:flowupdater-curseforgeplugin:2.0.0'
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
+
+compileJava {
+    options.encoding = 'UTF-8'
+}

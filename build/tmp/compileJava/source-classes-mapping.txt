@@ -1,0 +1,65 @@
+fr/caemur/delphinelauncher/utils/UpdateStep.java
+ fr.caemur.delphinelauncher.utils.UpdateStep
+fr/caemur/delphinelauncher/auth/DelphineAuthInfo.java
+ fr.caemur.delphinelauncher.auth.DelphineAuthInfo
+fr/caemur/delphinelauncher/utils/Constants.java
+ fr.caemur.delphinelauncher.utils.Constants
+fr/caemur/delphinelauncher/discord/DiscordRpcHandler.java
+ fr.caemur.delphinelauncher.discord.DiscordRpcHandler
+fr/caemur/delphinelauncher/ui/pages/options/FilePane.java
+ fr.caemur.delphinelauncher.ui.pages.options.FilePane
+fr/caemur/delphinelauncher/auth/Auth.java
+ fr.caemur.delphinelauncher.auth.Auth
+fr/caemur/delphinelauncher/file/FileManager.java
+ fr.caemur.delphinelauncher.file.FileManager
+ fr.caemur.delphinelauncher.file.FileManager$1
+fr/caemur/delphinelauncher/ui/pages/login/LoginMethodPane.java
+ fr.caemur.delphinelauncher.ui.pages.login.LoginMethodPane
+fr/caemur/delphinelauncher/ui/PageManager.java
+ fr.caemur.delphinelauncher.ui.PageManager
+ fr.caemur.delphinelauncher.ui.PageManager$1
+ fr.caemur.delphinelauncher.ui.PageManager$2
+ fr.caemur.delphinelauncher.ui.PageManager$AnimationType
+fr/caemur/delphinelauncher/Main.java
+ fr.caemur.delphinelauncher.Main
+fr/caemur/delphinelauncher/ui/pages/login/LoginForm.java
+ fr.caemur.delphinelauncher.ui.pages.login.LoginForm
+fr/caemur/delphinelauncher/ui/pages/about/AboutPage.java
+ fr.caemur.delphinelauncher.ui.pages.about.AboutPage
+fr/caemur/delphinelauncher/ui/pages/options/OptionPane.java
+ fr.caemur.delphinelauncher.ui.pages.options.OptionPane
+fr/caemur/delphinelauncher/utils/LauncherOptions.java
+ fr.caemur.delphinelauncher.utils.LauncherOptions
+fr/caemur/delphinelauncher/ui/pages/options/OptionsPage.java
+ fr.caemur.delphinelauncher.ui.pages.options.OptionsPage
+fr/caemur/delphinelauncher/App.java
+ fr.caemur.delphinelauncher.App
+fr/caemur/delphinelauncher/ui/Page.java
+ fr.caemur.delphinelauncher.ui.Page
+fr/caemur/delphinelauncher/ui/utils/Dialog.java
+ fr.caemur.delphinelauncher.ui.utils.Dialog
+fr/caemur/delphinelauncher/ui/utils/ImageResize.java
+ fr.caemur.delphinelauncher.ui.utils.ImageResize
+fr/caemur/delphinelauncher/ui/pages/options/LogsPane.java
+ fr.caemur.delphinelauncher.ui.pages.options.LogsPane
+fr/caemur/delphinelauncher/file/savers/AuthSaver.java
+ fr.caemur.delphinelauncher.file.savers.AuthSaver
+fr/caemur/delphinelauncher/file/savers/OptionSaver.java
+ fr.caemur.delphinelauncher.file.savers.OptionSaver
+fr/caemur/delphinelauncher/ui/pages/MainPage.java
+ fr.caemur.delphinelauncher.ui.pages.MainPage
+ fr.caemur.delphinelauncher.ui.pages.MainPage$1
+ fr.caemur.delphinelauncher.ui.pages.MainPage$1$1
+fr/caemur/delphinelauncher/file/OS.java
+ fr.caemur.delphinelauncher.file.OS
+fr/caemur/delphinelauncher/update/Updater.java
+ fr.caemur.delphinelauncher.update.Updater
+fr/caemur/delphinelauncher/ui/pages/options/ConnectionPane.java
+ fr.caemur.delphinelauncher.ui.pages.options.ConnectionPane
+fr/caemur/delphinelauncher/ui/pages/options/RamPane.java
+ fr.caemur.delphinelauncher.ui.pages.options.RamPane
+fr/caemur/delphinelauncher/launch/Launcher.java
+ fr.caemur.delphinelauncher.launch.Launcher
+fr/caemur/delphinelauncher/ui/pages/login/LoginPage.java
+ fr.caemur.delphinelauncher.ui.pages.login.LoginPage
+ fr.caemur.delphinelauncher.ui.pages.login.LoginPage$1
